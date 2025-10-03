@@ -44,49 +44,49 @@ links:
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
-  - link:
+  - social:
       icon: "fa-brands fa-twitch"
       url: "https://www.twitch.tv/jamsethoth"
       alt: "Jams's Twitch Channel"
       title: "Jams's Twitch Channel"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@jamsethoth"
       alt: "Jams's YouTube Channel"
       title: "Jams's YouTube Channel"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-kickstarter"
       url: "https://kick.com/jamsethoth"
       alt: "Jams's Kick Channel"
       title: "Jams's Kick Channel"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-tiktok"
       url: "https://www.tiktok.com/@jamsethoth"
       alt: "Jams's Tiktok"
       title: "Jams's Tiktok"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-tiktok"
       url: "https://www.tiktok.com/@jamsethoth"
       alt: "Jams's Tiktok"
       title: "Jams's Tiktok"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-instagram"
       url: "https://www.instagram.com/jamseth0th/"
       alt: "Jams's Tiktok"
       title: "Jams's Tiktok"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-bluesky"
       url: "https://bsky.app/profile/jamsethoth.bsky.social"
       alt: "Jams's Bluesky"
       title: "Jams's Bluesky"
       target: "_blank"
-  - link:
+  - social:
       icon: "fa-solid fa-twitter"
       url: "https://x.com/jamsethoth/"
       alt: "Jams's Twitter"
