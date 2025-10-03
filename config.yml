@@ -69,16 +69,10 @@ socials:
       title: "Jams's Tiktok"
       target: "_blank"
   - social:
-      icon: "fa-brands fa-tiktok"
-      url: "https://www.tiktok.com/@jamsethoth"
-      alt: "Jams's Tiktok"
-      title: "Jams's Tiktok"
-      target: "_blank"
-  - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/jamseth0th/"
-      alt: "Jams's Tiktok"
-      title: "Jams's Tiktok"
+      alt: "Jams's Instagram"
+      title: "Jams's Instagram"
       target: "_blank"
   - social:
       icon: "fa-brands fa-bluesky"
