@@ -53,8 +53,14 @@ socials:
   - social:
       icon: "fa-brands fa-youtube"
       url: "https://www.youtube.com/@jamsethoth"
-      alt: "Jams's YouTube Channel"
-      title: "Jams's YouTube Channel"
+      alt: "Jams's YouTube Main Channel"
+      title: "Jams's YouTube Main Channel"
+      target: "_blank"
+  - social:
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@jamsethothvods"
+      alt: "Jams's YouTube VODs Channel"
+      title: "Jams's YouTube VODs Channel"
       target: "_blank"
   - social:
       icon: "fa-brands fa-kickstarter"
