@@ -75,6 +75,12 @@ socials:
       title: "Jams's Tiktok"
       target: "_blank"
   - social:
+      icon: "fa-brands fa-discord"
+      url: "https://discord.gg/CN9J8szD"
+      alt: "Jams's Discord"
+      title: "Jams's Discord"
+      target: "_blank"
+  - social:
       icon: "fa-brands fa-instagram"
       url: "https://www.instagram.com/jamseth0th/"
       alt: "Jams's Instagram"
