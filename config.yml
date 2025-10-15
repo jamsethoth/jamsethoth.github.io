@@ -36,7 +36,24 @@ tagline: >
 # alt: Alternative text for accessibility
 # target: `_blank` opens in a new tab, `_self` opens in the same frame
 links:
-
+  - link:
+      icon: "fa-brands fa-twitch"
+      url: "https://www.twitch.tv/jamsethoth"
+      alt: "Jams's Twitch Channel"
+      title: "Jams's Twitch Channel"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@jamsethoth"
+      alt: "Jams's YouTube Main Channel"
+      title: "Jams's YouTube Main Channel"
+      target: "_blank"
+  - link:
+      icon: "fa-brands fa-kickstarter"
+      url: "https://kick.com/jamsethoth"
+      alt: "Jams's Kick Channel"
+      title: "Jams's Kick Channel"
+      target: "_blank"
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
 # title: The url title
@@ -44,30 +61,6 @@ links:
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
-  - social:
-      icon: "fa-brands fa-twitch"
-      url: "https://www.twitch.tv/jamsethoth"
-      alt: "Jams's Twitch Channel"
-      title: "Jams's Twitch Channel"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/@jamsethoth"
-      alt: "Jams's YouTube Main Channel"
-      title: "Jams's YouTube Main Channel"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-youtube"
-      url: "https://www.youtube.com/@jamsethothvods"
-      alt: "Jams's YouTube VODs Channel"
-      title: "Jams's YouTube VODs Channel"
-      target: "_blank"
-  - social:
-      icon: "fa-brands fa-kickstarter"
-      url: "https://kick.com/jamsethoth"
-      alt: "Jams's Kick Channel"
-      title: "Jams's Kick Channel"
-      target: "_blank"
   - social:
       icon: "fa-brands fa-tiktok"
       url: "https://www.tiktok.com/@jamsethoth"
