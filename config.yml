@@ -51,13 +51,6 @@ links:
       title: "Jams's YouTube Channel"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-kickstarter"
-      text: "Jams's Kick Channel"
-      url: "https://kick.com/jamsethoth"
-      alt: "Jams's Kick Channel"
-      title: "Jams's Kick Channel"
-      target: "_blank"
-  - link:
       icon: "fa-brands fa-discord"
       text: "Jams's Discord"
       url: "https://discord.gg/RQ2BEFAZbm"
